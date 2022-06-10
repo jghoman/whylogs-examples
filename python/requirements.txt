@@ -3,4 +3,5 @@ certifi
 chardet
 matplotlib
 numpy
+pandas
 whylogs
